@@ -1,5 +1,8 @@
 # Quantitative-trading-and-sentiment-analysis-based-on-Microsoft-s-acquisition-of-Activision-Blizzard
 
+The link to the project video is as follows:
+https://www.bilibili.com/video/BV1ja4y197Zo/?spm_id_from=333.999.0.0&vd_source=8e7e4434b304843fa47b7f84cada7d98
+
 ## 1.Introduction
 On January 18, 2022, Microsoft announced its intention to acquire Activision Blizzard for $68.7 billion. The deal was finalized on October 13, 2023. Under the terms of the agreement, Microsoft will bring Activision Blizzard into its Microsoft Games business as a sibling unit of Xbox Game Studios and ZeniMax Media. With the acquisition, Microsoft gained access to multiple franchises owned by Activision, Blizzard Entertainment,
 and King, including Call of Duty, Crash Bandicoot, Spyro, Warcraft, StarCraft, Diablo, Overwatch, and Candy Crush. As of 2023, the acquisition is the largest video game acquisition in history by transaction value.
